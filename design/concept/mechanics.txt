@@ -1,0 +1,23 @@
+/* player */
+
+bite
+howl(howl charges)
+
+/* mink */
+
+bite
+smaller collision box
+
+/* chicken */
+
+peck(bite)
+jump/fly
+
+// chickens
+
+run away from wolf
+
+
+///// swap mechanic /////
+
+swap between animals wolf-mink-chicken
